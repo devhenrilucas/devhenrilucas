@@ -1,6 +1,6 @@
 ## Olá, bem vindos ao meu perfil! 😎
 
-- 📫 Procurando estágio front end
+- 📫 Procurando estágio em desenvolvimento
 - 👨‍🎓 Ciência da Computação em Universidade Fumec
 - 👨‍💻 Atualmente aprendendo TypeScript
 
