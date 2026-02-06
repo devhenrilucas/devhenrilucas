@@ -9,10 +9,10 @@
 ### 🧰 Tecnologias 
 
 <div style="display: inline_block"><br>
-  <div>
+  <!-- <div>
     <a href="https://github.com/devhenrilucas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhenrilucas&show_icons=true&theme=dracula">
-  </div><br>
+  </div><br> -->
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
