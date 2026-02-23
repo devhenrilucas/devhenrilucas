@@ -2,7 +2,7 @@
 
 - 📫 Procurando estágio em desenvolvimento
 - 👨‍🎓 Ciência da Computação em Universidade Fumec
-- 👨‍💻 Atualmente estudando back-end Java
+- 👨‍💻 Atualmente estudando Java e Spring Boot
 
 ##
 
