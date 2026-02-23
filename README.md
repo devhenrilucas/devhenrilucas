@@ -21,7 +21,8 @@
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  
+  <img aling="center" width="40px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"></img>
+
   
 </div>
 
